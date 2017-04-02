@@ -1,0 +1,52 @@
+body {
+  background: #e1e7ed;
+  font-family: 'Lato', sans-serif;
+}
+
+.profile {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+  background: #fff;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 0px 10px 12px -5px rgba(206,213,219,0.8);
+}
+
+.profile-img {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  display: block;
+  border-radius: 30px;
+  margin: 1em;
+  box-shadow: 0px 10px 12px -5px rgba(206,213,219,0.8);
+}
+
+.profile-name {
+  position: absolute;
+  font-size: 15px;
+  top: 1em;
+  left: 5em;
+  color: #233142;
+}
+
+.profile-title {
+  position: absolute;
+  font-size: 10px;
+  top: 4em;
+  left: 19%;
+  color: #233142;
+}
+
+.quote {
+  position: absolute;
+  font-size: 20px;
+  top: 3em;
+  margin: 2em;
+  color: #687487;
+}
